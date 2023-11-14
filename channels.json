@@ -1,23 +1,5 @@
 [
     {
-        "id": "codestackr",
-        "name": "codeSTACKr",
-        "tags": ["web development", "typescript"],
-        "description": "My tutorials are generally about web development and include coding languages such as HTML, CSS, Sass, JavaScript, and TypeScript."
-    },
-    {
-        "id": "jackherrington",
-        "name": "Jack Herrington",
-        "tags": ["frontend", "technology"],
-        "description": "Frontend videos from basic to very advanced; tutorials, technology deep dives. You'll love it!"
-    },
-    {
-        "id": "arjancodes",
-        "name": "ArjanCodes",
-        "tags": ["software design", "python"],
-        "description": "ArjanCodes focuses on helping you become a better software developer."
-    },
-    {
         "id": "davidbomball",
         "name": "DavidBombdall",
         "tags": ["Hacking", "python", "Networking"],
@@ -28,5 +10,30 @@
         "name":"Jack Herrington",
         "tags": ["Valorant", "Cod Warzone", "Fifa 23"],
         "description": "All Time gamer and play all including in pc and ps5"
+    },
+    {
+        "id": "Jhonhammond",
+        "name":"Jhon Hammond",
+        "tags": ["Hacking", "python", "Networking"],
+        "description":"My tutorials are generally about Hacking and networking."
+    },
+    {
+        "id": "MrRobot",
+        "name":"Mr Robot",
+        "tags": ["Hacking", "python", "Networking"],
+        "description": "It have been a show in amazon prime and it is about hacking and networking"
+    },
+    {
+        "id": "fing",
+        "name":"Fing",
+        "tags": ["Storing", "Short Movie", "Prodcast"],
+        "description": "Best movie teller"
+    },
+    {
+        "id": "kazumi",
+        "name":"Kazumi",
+        "tags": ["xxx", "porn star", "xxx"],
+        "description": "Adult movie star"
     }
+
 ]
